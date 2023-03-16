@@ -1,0 +1,47 @@
+{
+  "90166": {
+    "py/object": "Domain.cardClient.Client",
+    "idEntitate": "90166",
+    "nume": "Pop",
+    "prenume": "Denis",
+    "CNP": "5638589708952",
+    "dataN": "09.08.1999",
+    "dataI": "21.09.2021"
+  },
+  "73878": {
+    "py/object": "Domain.cardClient.Client",
+    "idEntitate": "73878",
+    "nume": "Prigoana",
+    "prenume": "Alex",
+    "CNP": "1517266524123",
+    "dataN": "09.08.1999",
+    "dataI": "19.09.2020"
+  },
+  "87584": {
+    "py/object": "Domain.cardClient.Client",
+    "idEntitate": "87584",
+    "nume": "Pasca",
+    "prenume": "Alex",
+    "CNP": "2943741115473",
+    "dataN": "09.08.1999",
+    "dataI": "21.09.2021"
+  },
+  "1": {
+    "py/object": "Domain.cardClient.Client",
+    "idEntitate": "1",
+    "nume": "Crisan",
+    "prenume": "Andrei",
+    "CNP": "8593857203948",
+    "dataN": "16.01.2001",
+    "dataI": "19.03.2015"
+  },
+  "16034": {
+    "py/object": "Domain.cardClient.Client",
+    "idEntitate": "16034",
+    "nume": "Nemes",
+    "prenume": "Alex",
+    "CNP": "1957188645480",
+    "dataN": "20.08.1994",
+    "dataI": "19.09.2020"
+  }
+}

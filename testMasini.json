@@ -1,0 +1,18 @@
+{
+  "1": {
+    "py/object": "Domain.masina.Masina",
+    "idEntitate": "1",
+    "model": "dacia",
+    "anAchizitie": 2019,
+    "nrKm": 4000,
+    "inGarantie": "nu"
+  },
+  "2": {
+    "py/object": "Domain.masina.Masina",
+    "idEntitate": "2",
+    "model": "logan",
+    "anAchizitie": 2020,
+    "nrKm": 60000,
+    "inGarantie": "da"
+  }
+}

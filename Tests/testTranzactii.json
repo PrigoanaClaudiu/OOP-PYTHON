@@ -1,0 +1,12 @@
+{
+  "1": {
+    "py/object": "Domain.tranzactie.Tranzactie",
+    "idEntitate": "1",
+    "idMasina": "1",
+    "idClient": "1",
+    "sumaPiese": 200,
+    "sumaManopera": 270.0,
+    "data": "18.09.2019",
+    "ore": "17:01"
+  }
+}
